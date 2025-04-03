@@ -1,9 +1,9 @@
 [submodule "KI-B-4-Machine_Learning"]
 	path = KI-B-4-Machine_Learning
 	url = git@github.com:tj0vtj0v/KI-B-4-Machine_Learning.git
-[submodule "KI-B-4-Big_Data"]
-	path = KI-B-4-Big_Data
-	url = git@github.com:tj0vtj0v/KI-B-4-Big_Data.git
+[submodule "KI-B-4-Deep_Learning"]
+	path = KI-B-4-Deep_Learning
+	url = git@github.com:tj0vtj0v/KI-B-4-Deep_Learning.git
 [submodule "KI-B-4-Sprachverarbeitung"]
 	path = KI-B-4-Sprachverarbeitung
 	url = git@github.com:timesleep5/KI-B-4-Sprachverarbeitung.git
