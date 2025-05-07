@@ -10,3 +10,6 @@
 [submodule "KI-B-4-Human_Factors"]
 	path = KI-B-4-Human_Factors
 	url = git@github.com:timesleep5/KI-B-4-Human_Factors.git
+[submodule "KI-B-4-Software_Engineering"]
+	path = KI-B-4-Software_Engineering
+	url = git@github.com:tj0vtj0v/KI-B-4-Software_Engineering.git
